@@ -41,7 +41,6 @@
     var oppCount = 0;
     var userCount = 0;
     var companyCount = 0;
-    var connCount = 0;
 
     if (stats != null)
     {
@@ -49,12 +48,10 @@
         var oppCountProp = stats.GetType().GetProperty("OppCount");
         var userCountProp = stats.GetType().GetProperty("UserCount");
         var companyCountProp = stats.GetType().GetProperty("CompanyCount");
-        var activeConnProp = stats.GetType().GetProperty("ActiveConnections");
 
         oppCount = oppCountProp?.GetValue(stats) as int? ?? 0;
         userCount = userCountProp?.GetValue(stats) as int? ?? 0;
         companyCount = companyCountProp?.GetValue(stats) as int? ?? 0;
-        connCount = activeConnProp?.GetValue(stats) as int? ?? 0;
     }
 }
 
@@ -71,10 +68,6 @@
         <div class="stat-card scroll-reveal">
             <div class="stat-number" data-target="@companyCount">@companyCount</div>
             <div class="stat-label">Empresas</div>
-        </div>
-        <div class="stat-card scroll-reveal">
-            <div class="stat-number" data-target="@connCount">@connCount</div>
-            <div class="stat-label">Ligações Ativas</div>
         </div>
     </div>
 </section>
