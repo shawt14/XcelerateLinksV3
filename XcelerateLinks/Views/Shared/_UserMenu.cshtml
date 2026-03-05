@@ -87,7 +87,14 @@
             <li><a class="dropdown-item" href="@Url.Action("Index", "Applications")"><span class="me-2">📝</span>Candidaturas</a></li>
             <li><a class="dropdown-item" href="@Url.Action("Index", "Companies")"><span class="me-2">🏢</span>Empresas</a></li>
             <li><a class="dropdown-item" href="@Url.Action("Index", "Subscriptions")"><span class="me-2">💎</span>Subscrição</a></li>
-            @if (ViewContext.HttpContext.User?.FindFirst(ClaimTypes.Role)?.Value == "0")
+            @{
+                var userRole = ViewContext.HttpContext.User?.FindFirst(ClaimTypes.Role)?.Value;
+            }
+            @if (userRole != "0")
+            {
+                <li><a class="dropdown-item" href="@Url.Action("Index", "Connections")"><span class="me-2">🤝</span>Ligações</a></li>
+            }
+            @if (userRole == "0")
             {
                 <li><a class="dropdown-item" href="@Url.Action("Profit", "Home")"><span class="me-2">💰</span>Receita</a></li>
             }
