@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\XcelerateLinks.bundle.scp.css",
+      "PackagePath": "staticwebassets\\XcelerateLinks.adr086hiwn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\css\\usermenu.css",
+      "PackagePath": "staticwebassets\\css\\usermenu.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\images\\xcelerate-logo.png",
+      "PackagePath": "staticwebassets\\images\\xcelerate-logo.png"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\uploads\\banners\\.gitkeep",
+      "PackagePath": "staticwebassets\\uploads\\banners\\.gitkeep"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\uploads\\profiles\\705a7019-79fb-4909-bea7-e2c97acb75f5.png",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\705a7019-79fb-4909-bea7-e2c97acb75f5.png"
+    },
+    {
+      "Id": "D:\\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\\APIPSI16_6\\XcelerateLinks\\wwwroot\\uploads\\profiles\\ff347f93-6610-4c55-acdc-cfcec1d09d34.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\ff347f93-6610-4c55-acdc-cfcec1d09d34.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.XcelerateLinks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.XcelerateLinks.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.XcelerateLinks.props",
+      "PackagePath": "build\\XcelerateLinks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.XcelerateLinks.props",
+      "PackagePath": "buildMultiTargeting\\XcelerateLinks.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.XcelerateLinks.props",
+      "PackagePath": "buildTransitive\\XcelerateLinks.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

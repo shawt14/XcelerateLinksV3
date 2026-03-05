@@ -1,0 +1,8 @@
+C:\Users\Diogo\Downloads\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\APIPSI16_5\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+D:\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\APIPSI16_5\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+D:\xceleratelinkssystemsfinal-copilot-flesh-out-application-process\APIPSI16_6\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shawt\Desktop\APIPSI16_6_2\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shawt\Desktop\APIPSI16_6_2\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shawt\Desktop\APIPSI16_6_2\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shawt\Desktop\APIPSI16_6_2\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shawt\Desktop\APIPSI16_6_2\APIPSI16\obj\Debug\net8.0\staticwebassets.build.json
